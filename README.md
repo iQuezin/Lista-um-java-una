@@ -1,4 +1,4 @@
-# lista-um-java-una
+# Lista-um-java-una
 Lista de exercício um em java.
 
 Meu perfil no [linkedin](https://www.linkedin.com/in/kayque-dos-santos-almeida?trk=comtact-info).
